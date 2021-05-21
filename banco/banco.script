@@ -1,0 +1,37 @@
+tabela admin
+id
+nome 
+usuario 
+senha
+
+tabela servicos
+id
+titulo - nome servico
+descricao
+preco
+nome da imagem
+categoria id
+destaque ativo
+
+
+tabela categoria
+id 
+titulo
+nome da imagem
+destaque
+ativo
+
+
+
+tabela order
+id
+servico
+profissional
+preco
+data
+status
+cliente
+contato do cliente
+email do cliente
+endereço_cliente
+

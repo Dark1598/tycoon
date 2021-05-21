@@ -1,0 +1,2 @@
+https://www.devmedia.com.br/crud-com-php-pdo/28873
+http://rberaldo.com.br/pdo-mysql/

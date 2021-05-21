@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.linha{
+   /* border: 1px solid black;*/
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.text-center{
+    text-align: center;
+}
+.clearfix{
+    float: none;
+    clear: both;
+}
+.tbl-full{
+    width: 100%;
+}
+.tbl-30{
+    width: 30%;
+}
+
+table tr th{
+    border-bottom: 1px solid #c1c1c1 ;
+    text-align: left;
+    padding: 1%;
+}
+table tr td{
+    padding: 1%;
+}
+
+.btn-primary{
+    background-color: #0cb0b6;
+    color: #ffffff;
+    padding: 1%;
+    font-weight: bold;
+    text-decoration: none;
+}
+.btn-primary:hover{
+    background-color: #0e777a;
+}
+
+.btn-secundario{
+    background-color: #08c284;
+    color: #000;
+    padding: 1%;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5%;
+}
+.btn-secundario:hover{
+    background-color: #10be5e;
+}
+
+.btn-danger{
+    background-color: #b90541;
+    color: #ffffff;
+    padding: 1%;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+.btn-danger:hover{
+    background-color: #e7358e;
+}
+
+.success{
+    color: #2ed571;
+}
+
+.erro{
+    color: #ff4757;
+}
+
+/*css menu*/
+.menu{
+    border-bottom: 1px solid #c1c1c1;
+}
+.menu ul{
+    list-style: none;
+
+}
+.menu ul li{
+    display: inline;
+    padding: 1%;
+}
+.menu ul li a {
+    text-decoration: none;
+    font-weight: 200;
+    color: #f26e22;
+    ;
+
+}
+/*css contant*/
+.main-content{
+    background-color: #f1f2f6;
+    padding: 3% 0;
+}
+.col-4{
+    width: 18%;
+    background-color:#ffffff;
+    margin: 1%;
+    padding: 2%;
+    float: left;
+}
+/*css footer*/
+.footer{
+    background-color: #f26e22;
+    color: #ffffff;
+}
+
+.login{
+    border: 1px solid #c1c1c1 ;
+    width: 20%;
+    margin: 10% auto;
+    padding: 3%;
+}
